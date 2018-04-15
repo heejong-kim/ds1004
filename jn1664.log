@@ -38,3 +38,23 @@ jn1664
 * | 09b2c2d u1
 |/
 * e9e6d55 Initial commit
+jy50
+*   b5f4fed final merge
+|\  
+| *   4b0e034 Merge branch 'master' into b1
+| |\  
+| * | 14e1730 7th commit (2nd on b1)
+* | |   0d4fb7c 8th commit, merge b2 to master
+|\ \ \  
+| |_|/  
+|/| |   
+| * | a250348 4th commit (1st on b2)
+* | |   041e945 6th commit (4th on maser)
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * f0d40d9 2nd commit (1st on b1)
+* | f71749e 3rd commit (2nd on master)
+|/  
+* 7acb826 1st commit (1st on master)
